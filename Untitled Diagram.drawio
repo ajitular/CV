@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
+  <diagram name="Page-1" id="1IDEHCJFzlcT1Vyynri7">
+    <mxGraphModel dx="2643" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=link;strokeWidth=2;" edge="1" parent="1" source="EvLQw1anPGPe3G8ZMteX-1" target="EvLQw1anPGPe3G8ZMteX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-1" value="&lt;b&gt;Pengiklan&lt;/b&gt;&lt;br&gt;Bayar ke link shortener untuk marketing website/produknya dia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-22" value="&lt;b&gt;SHORTLINK&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="EvLQw1anPGPe3G8ZMteX-2" target="EvLQw1anPGPe3G8ZMteX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Upah í ½í²²í ½í²²í ½í²²&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="EvLQw1anPGPe3G8ZMteX-2" target="EvLQw1anPGPe3G8ZMteX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-2" value="&lt;b&gt;SafelinkU&lt;/b&gt;&lt;br&gt;Berperan sebagai Mediator antara Pengiklan dan Link Sharer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="195" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-21" value="&lt;b&gt;LINK ORI&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="EvLQw1anPGPe3G8ZMteX-3" target="EvLQw1anPGPe3G8ZMteX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-24" value="&lt;b&gt;SEBAR SHORTLINK&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="EvLQw1anPGPe3G8ZMteX-3" target="EvLQw1anPGPe3G8ZMteX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-3" value="&lt;b&gt;Link Sharer (Riri the Influencer)&lt;/b&gt;&lt;br&gt;Menggunakan jasa link shortener untuk :&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Shorting Link yang panjang&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Dapat uang tambahan&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-25" value="&lt;b&gt;Click Link&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="EvLQw1anPGPe3G8ZMteX-8" target="EvLQw1anPGPe3G8ZMteX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-8" value="&lt;b&gt;Viewer&lt;br&gt;&quot;Butuh Parallel Desktop nih coba liat&lt;br&gt;Vid nya Riri ah&quot;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="610" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="EvLQw1anPGPe3G8ZMteX-1" target="EvLQw1anPGPe3G8ZMteX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-15" value="&lt;b&gt;Tolong Iklanin&lt;br&gt;Website Gw, ini&lt;br&gt;duitnya&lt;br&gt;í ½í²²í ½í²²í ½í²²&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EvLQw1anPGPe3G8ZMteX-14">
+          <mxGeometry x="0.0199" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="EvLQw1anPGPe3G8ZMteX-9" target="EvLQw1anPGPe3G8ZMteX-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Link Click Confirmed&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="EvLQw1anPGPe3G8ZMteX-9" target="EvLQw1anPGPe3G8ZMteX-2">
+          <mxGeometry x="-0.2441" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-9" value="&lt;b&gt;IKLAN&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="240" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;ShortLink Mengarah ke Iklan&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="EvLQw1anPGPe3G8ZMteX-23" target="EvLQw1anPGPe3G8ZMteX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-23" value="&lt;b&gt;CONTENT&lt;br&gt;Parallel Desktop&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="EvLQw1anPGPe3G8ZMteX-28" target="EvLQw1anPGPe3G8ZMteX-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-28" value="&lt;b&gt;Google Drive&lt;br&gt;with&lt;/b&gt;&lt;div&gt;&lt;b&gt;Parallel Desktop&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="215" width="195" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Engagement&lt;/h1&gt;&lt;p&gt;Pengiklan sukses menaikkan&amp;nbsp;&lt;br&gt;jumlah kunjungan ke websitenya&lt;br&gt;(Misal: blog, artikel,dll&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="45" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Shortlink &amp;amp; Cuan&lt;/h1&gt;&lt;p&gt;Link sharer berhasil menyingkat link panjangnya, bonuss dapat uang tambahan&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="40" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EvLQw1anPGPe3G8ZMteX-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Kebutuhan Terpenuhi&lt;/h1&gt;&lt;p&gt;Viewer atau orang yang butuh Tutorial terpenuhi kebutuhannya, yang butuh software, aplikasi, informasi,dll&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="610" width="255" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
